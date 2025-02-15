@@ -1,0 +1,14 @@
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\bin\Release\net9.0\ConsoleStringPalindromeCheck.exe
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\bin\Release\net9.0\ConsoleStringPalindromeCheck.deps.json
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\bin\Release\net9.0\ConsoleStringPalindromeCheck.runtimeconfig.json
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\bin\Release\net9.0\ConsoleStringPalindromeCheck.dll
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\bin\Release\net9.0\ConsoleStringPalindromeCheck.pdb
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\obj\Release\net9.0\ConsoleStringPalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\obj\Release\net9.0\ConsoleStringPalindromeCheck.AssemblyInfoInputs.cache
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\obj\Release\net9.0\ConsoleStringPalindromeCheck.AssemblyInfo.cs
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\obj\Release\net9.0\ConsoleStringPalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\obj\Release\net9.0\ConsoleStringPalindromeCheck.dll
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\obj\Release\net9.0\refint\ConsoleStringPalindromeCheck.dll
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\obj\Release\net9.0\ConsoleStringPalindromeCheck.pdb
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\obj\Release\net9.0\ConsoleStringPalindromeCheck.genruntimeconfig.cache
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleStringPalindromeCheck\ConsoleStringPalindromeCheck\obj\Release\net9.0\ref\ConsoleStringPalindromeCheck.dll
