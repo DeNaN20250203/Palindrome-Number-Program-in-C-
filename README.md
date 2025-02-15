@@ -38,6 +38,7 @@ public static bool IsPalindrome (string str)
 /// <summary>
 /// Проверяет, является ли входная последовательность палиндромом.
 /// </summary>
+public static bool IsPalindrome<T>(this T input)
 	where T : IEnumerable
 {
 	/// Преобразуем входную последовательность в массив объектов
